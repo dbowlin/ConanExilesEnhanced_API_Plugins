@@ -1,0 +1,7 @@
+{
+  "Name": "ThrallRescue",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Teleports owned thralls to the player with K2_TeleportTo."
+}

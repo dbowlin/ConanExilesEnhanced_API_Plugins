@@ -1,0 +1,7 @@
+{
+  "Enabled": true,
+  "AllowNonAdminReset": true,
+  "ResetCooldownMinutes": 10,
+  "Prefix": "!",
+  "CommandDungeon": "dungeon reset"
+}

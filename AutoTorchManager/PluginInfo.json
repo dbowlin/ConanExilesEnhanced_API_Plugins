@@ -1,0 +1,7 @@
+{
+  "Name": "AutoTorchManager",
+  "Version": "2.2.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Turns base lights on at dusk and off at dawn via BP_BAC_TurnLightOnOff; !lights command."
+}

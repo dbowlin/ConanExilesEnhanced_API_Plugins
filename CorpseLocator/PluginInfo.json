@@ -1,0 +1,7 @@
+{
+  "Name": "CorpseLocator",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Records OnDeath locations; !corpse reports grid/distance; optional !tpcorpse via K2_TeleportTo."
+}

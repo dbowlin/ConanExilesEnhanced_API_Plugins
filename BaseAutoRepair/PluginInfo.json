@@ -1,0 +1,7 @@
+{
+  "Description": "Whole-base one-click repair and structure status inspector for post-siege maintenance.",
+  "Enabled": false,
+  "MinApiVersion": "6",
+  "Name": "BaseAutoRepair",
+  "Version": "1.0.0"
+}

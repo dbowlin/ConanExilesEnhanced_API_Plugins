@@ -1,0 +1,7 @@
+{
+  "BossRespawnMinutes": 5,
+  "CommandBossTimer": "bosstimer",
+  "CommandRespawnBosses": "respawnbosses",
+  "Enabled": true,
+  "Prefix": "!"
+}

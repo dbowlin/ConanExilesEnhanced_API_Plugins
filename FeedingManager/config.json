@@ -1,0 +1,7 @@
+{
+  "Enabled": true,
+  "DefaultFoodTemplateId": 18210,
+  "FoodQuantityPerThrall": 20,
+  "Prefix": "!",
+  "CommandFeed": "feed"
+}

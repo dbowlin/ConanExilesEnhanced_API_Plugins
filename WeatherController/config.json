@@ -1,0 +1,6 @@
+{
+  "Enabled": true,
+  "AllowPlayerWeatherVote": true,
+  "Prefix": "!",
+  "CommandWeather": "weather"
+}

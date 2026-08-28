@@ -1,0 +1,6 @@
+{
+  "Enabled": true,
+  "MaxTradeDistanceMeters": 15.0,
+  "Prefix": "!",
+  "CommandTrade": "trade"
+}

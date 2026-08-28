@@ -1,0 +1,7 @@
+{
+  "Name": "WeatherController",
+  "Version": "2.1.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Controls weather via BP_SC_WeatherHandler / BP_AC_Weather / Sandstorm ForceChangeWeather."
+}

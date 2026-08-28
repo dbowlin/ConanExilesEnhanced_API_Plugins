@@ -1,0 +1,7 @@
+{
+  "Enabled": true,
+  "ScanRadiusMeters": 50.0,
+  "Prefix": "!",
+  "CommandUnstick": "unstick",
+  "CommandTavern": "tavern reroll"
+}

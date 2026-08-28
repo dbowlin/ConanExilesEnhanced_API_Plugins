@@ -1,0 +1,74 @@
+[
+  {
+    "key": "berserker",
+    "name": "Cimmerian Berserker (T4)",
+    "templateId": 92002,
+    "category": "Thralls",
+    "price": 25,
+    "quantity": 1
+  },
+  {
+    "key": "dalinsia",
+    "name": "Dalinsia Snowhunter (T4)",
+    "templateId": 92001,
+    "category": "Thralls",
+    "price": 30,
+    "quantity": 1
+  },
+  {
+    "key": "blacksmith4",
+    "name": "Master Blacksmith (T4)",
+    "templateId": 90050,
+    "category": "Thralls",
+    "price": 20,
+    "quantity": 1
+  },
+  {
+    "key": "wolf_pup",
+    "name": "Wolf Pup",
+    "templateId": 19001,
+    "category": "Pets",
+    "price": 10,
+    "quantity": 1
+  },
+  {
+    "key": "tiger_cub",
+    "name": "Tiger Cub",
+    "templateId": 19002,
+    "category": "Pets",
+    "price": 15,
+    "quantity": 1
+  },
+  {
+    "key": "hardened_steel",
+    "name": "Hardened Steel Bar",
+    "templateId": 11051,
+    "category": "Resources",
+    "price": 5,
+    "quantity": 100
+  },
+  {
+    "key": "star_metal",
+    "name": "Star Metal Bar",
+    "templateId": 11060,
+    "category": "Resources",
+    "price": 10,
+    "quantity": 100
+  },
+  {
+    "key": "alchemical_base",
+    "name": "Alchemical Base",
+    "templateId": 11058,
+    "category": "Resources",
+    "price": 8,
+    "quantity": 100
+  },
+  {
+    "key": "feast_set",
+    "name": "Feast of Set",
+    "templateId": 18260,
+    "category": "Food",
+    "price": 2,
+    "quantity": 10
+  }
+]

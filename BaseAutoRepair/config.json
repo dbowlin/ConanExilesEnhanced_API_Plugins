@@ -1,0 +1,8 @@
+{
+  "CommandBaseInfo": "baseinfo",
+  "CommandRepair": "repair",
+  "Enabled": false,
+  "Prefix": "!",
+  "RepairRadiusMeters": 50,
+  "RequireMaterialsInChests": false
+}

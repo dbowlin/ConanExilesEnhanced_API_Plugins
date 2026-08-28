@@ -1,0 +1,6 @@
+{
+  "Enabled": true,
+  "StarterKitCooldownHours": 24,
+  "Prefix": "!",
+  "CommandKit": "kit"
+}

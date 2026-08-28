@@ -1,0 +1,10 @@
+{
+  "AutoSortIntervalSeconds": 30,
+  "CommandSort": "sort",
+  "ContainersPerTick": 6,
+  "Enabled": true,
+  "IncludeCraftingInventories": true,
+  "Prefix": "!",
+  "SortMethod": "ByType",
+  "SortOnItemAdded": true
+}

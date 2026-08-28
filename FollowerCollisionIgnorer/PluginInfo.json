@@ -1,0 +1,7 @@
+{
+  "Description": "Sets owned follower CapsuleComponent collision to Ignore on Pawn (and Vehicle) channels so players are not trapped.",
+  "Enabled": false,
+  "MinApiVersion": "6",
+  "Name": "FollowerCollisionIgnorer",
+  "Version": "2.2.0"
+}

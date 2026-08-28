@@ -1,0 +1,7 @@
+{
+  "Name": "StoragePuller",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Pulls/deposits items between nearby chests and backpack via MoveItemsByTemplateId."
+}

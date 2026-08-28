@@ -1,0 +1,68 @@
+[
+  {
+    "key": "starter",
+    "name": "Iron Adventurer Kit",
+    "requiredLevel": 0,
+    "items": [
+      { "templateId": 50495, "quantity": 1, "name": "Iron Short Sword" },
+      { "templateId": 52001, "quantity": 1, "name": "Light Turban" },
+      { "templateId": 52002, "quantity": 1, "name": "Light Chestpiece" },
+      { "templateId": 52003, "quantity": 1, "name": "Light Gauntlets" },
+      { "templateId": 52004, "quantity": 1, "name": "Light Wrap" },
+      { "templateId": 52005, "quantity": 1, "name": "Light Boots" },
+      { "templateId": 51403, "quantity": 1, "name": "Improved Hunting Bow" },
+      { "templateId": 53612, "quantity": 50, "name": "Ironhead Arrow" },
+      { "templateId": 51039, "quantity": 1, "name": "Iron Sickle" },
+      { "templateId": 51002, "quantity": 1, "name": "Iron Pick" },
+      { "templateId": 51309, "quantity": 1, "name": "Iron Skinning Knife" },
+      { "templateId": 51012, "quantity": 1, "name": "Iron Hatchet" },
+      { "templateId": 41036, "quantity": 1, "name": "Iron Cleaver" },
+      { "templateId": 13540, "quantity": 20, "name": "Gruel" },
+      { "templateId": 41032, "quantity": 1, "name": "Sealed Waterskin" }
+    ]
+  },
+  {
+    "key": "steel",
+    "name": "Steel Veteran Kit",
+    "requiredLevel": 30,
+    "items": [
+      { "templateId": 24370, "quantity": 1, "name": "Steel Short Sword" },
+      { "templateId": 52011, "quantity": 1, "name": "Medium Cap" },
+      { "templateId": 52012, "quantity": 1, "name": "Medium Harness" },
+      { "templateId": 52013, "quantity": 1, "name": "Medium Gauntlets" },
+      { "templateId": 52014, "quantity": 1, "name": "Medium Tasset" },
+      { "templateId": 52015, "quantity": 1, "name": "Medium Boots" },
+      { "templateId": 51405, "quantity": 1, "name": "Powerful Hunting Bow" },
+      { "templateId": 53614, "quantity": 50, "name": "Steel Arrow" },
+      { "templateId": 51040, "quantity": 1, "name": "Steel Sickle" },
+      { "templateId": 51003, "quantity": 1, "name": "Steel Pick" },
+      { "templateId": 51310, "quantity": 1, "name": "Steel Skinning Knife" },
+      { "templateId": 51013, "quantity": 1, "name": "Steel Hatchet" },
+      { "templateId": 41028, "quantity": 1, "name": "Steel Cleaver" },
+      { "templateId": 18208, "quantity": 20, "name": "Savory Feast" },
+      { "templateId": 18211, "quantity": 20, "name": "Purified Water" }
+    ]
+  },
+  {
+    "key": "hardened",
+    "name": "Hardened Steel Champion Kit",
+    "requiredLevel": 51,
+    "items": [
+      { "templateId": 24371, "quantity": 1, "name": "Hardened Steel Short Sword" },
+      { "templateId": 52021, "quantity": 1, "name": "Heavy Helmet" },
+      { "templateId": 52022, "quantity": 1, "name": "Heavy Pauldron" },
+      { "templateId": 52023, "quantity": 1, "name": "Heavy Gauntlets" },
+      { "templateId": 52024, "quantity": 1, "name": "Heavy Tasset" },
+      { "templateId": 52025, "quantity": 1, "name": "Heavy Sabatons" },
+      { "templateId": 51589, "quantity": 1, "name": "Hardened Steel Bow" },
+      { "templateId": 53654, "quantity": 50, "name": "Hardened Steel Arrow" },
+      { "templateId": 51041, "quantity": 1, "name": "Hardened Steel Sickle" },
+      { "templateId": 51022, "quantity": 1, "name": "Hardened Steel Pick" },
+      { "templateId": 51311, "quantity": 1, "name": "Hardened Steel Skinning Knife" },
+      { "templateId": 51014, "quantity": 1, "name": "Hardened Steel Hatchet" },
+      { "templateId": 41029, "quantity": 1, "name": "Hardened Steel Cleaver" },
+      { "templateId": 18251, "quantity": 20, "name": "Hearty Feast" },
+      { "templateId": 41038, "quantity": 1, "name": "Deep drink Waterskin" }
+    ]
+  }
+]

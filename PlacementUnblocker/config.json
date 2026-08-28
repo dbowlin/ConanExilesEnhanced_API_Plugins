@@ -1,0 +1,6 @@
+{
+  "AllowOverlapPlacing": true,
+  "AllowWaterPlacing": true,
+  "Enabled": true,
+  "RelaxSlopeLimits": true
+}

@@ -1,0 +1,7 @@
+{
+  "Name": "ContainerAutoSort",
+  "Version": "1.1.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Automatically sorts placeable container inventories by Type, Name, Weight, or Age. Config hot-reloads; sort preference persists in config.json."
+}

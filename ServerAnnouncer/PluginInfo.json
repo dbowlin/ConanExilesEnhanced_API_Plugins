@@ -1,0 +1,7 @@
+{
+  "Name": "ServerAnnouncer",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Rotating MensagemParaTodos tips on IntervalMinutes plus admin !broadcast chat command."
+}

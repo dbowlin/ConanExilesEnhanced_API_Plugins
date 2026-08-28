@@ -1,0 +1,7 @@
+{
+  "CommandCast": "cast",
+  "EnableFastCasting": true,
+  "Enabled": true,
+  "MaxCorruptionPercent": 50,
+  "Prefix": "!"
+}

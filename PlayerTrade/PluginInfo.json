@@ -1,0 +1,7 @@
+{
+  "Name": "PlayerTrade",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Nearest-player trade request handshake via K2_GetActorLocation and chat accept."
+}

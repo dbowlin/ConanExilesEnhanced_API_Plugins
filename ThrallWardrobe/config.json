@@ -1,0 +1,6 @@
+{
+  "Enabled": true,
+  "MaxRangeMeters": 25.0,
+  "Prefix": "!",
+  "CommandUniform": "uniform"
+}

@@ -1,0 +1,7 @@
+{
+  "Name": "PlacementUnblocker",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Hooks CanBePlaced / CanBePlaced_Internal / PreCanBePlacedSuccess and forces Success; sets CanPlaceAnywhere / CanPlaceOnWater / bIgnoreSplineLimit."
+}

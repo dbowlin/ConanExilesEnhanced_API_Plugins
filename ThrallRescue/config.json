@@ -1,0 +1,10 @@
+{
+  "Enabled": true,
+  "AllowRescueAll": true,
+  "CooldownSeconds": 30,
+  "MaxFollowerDistance": 0,
+  "Prefix": "!",
+  "CommandRescue": "rescue",
+  "CommandList": "mythralls",
+  "CombatLockoutSeconds": 15
+}

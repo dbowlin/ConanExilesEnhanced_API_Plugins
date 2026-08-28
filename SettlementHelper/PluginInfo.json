@@ -1,0 +1,7 @@
+{
+  "Name": "SettlementHelper",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Unsticks owned thralls with K2_TeleportTo; refreshes BP_PL_TavernBar patrons."
+}

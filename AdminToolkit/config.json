@@ -1,0 +1,10 @@
+{
+  "AllowAdminCommandsInChat": true,
+  "CommandGhost": "ghost",
+  "CommandGod": "god",
+  "CommandKick": "kick",
+  "CommandSaveWorld": "saveworld",
+  "CommandWho": "who",
+  "Enabled": true,
+  "Prefix": "!"
+}

@@ -1,0 +1,7 @@
+{
+  "Enabled": true,
+  "AllowTpToCorpse": false,
+  "Prefix": "!",
+  "CommandCorpse": "corpse",
+  "CommandTpCorpse": "tpcorpse"
+}

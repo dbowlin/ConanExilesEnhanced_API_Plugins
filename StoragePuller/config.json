@@ -1,0 +1,8 @@
+{
+  "CommandDeposit": "deposit",
+  "CommandPull": "pull",
+  "EnableAutoDeposit": true,
+  "Enabled": true,
+  "Prefix": "!",
+  "PullRadiusMeters": 200
+}

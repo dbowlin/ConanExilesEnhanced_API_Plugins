@@ -1,0 +1,7 @@
+{
+  "Name": "AreaLoot",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Vacuum nearby LootContainer/Corpse into your inventory via !loot (TakeAllLootItems/QuickLoot)."
+}

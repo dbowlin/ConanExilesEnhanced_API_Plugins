@@ -1,0 +1,7 @@
+{
+  "Name": "FollowerLevelBoost",
+  "Version": "2.1.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Multiplies owned-follower GiveExperiencePoints and grants BossKillBonusXp on OnBossDefeated/BossKilled."
+}

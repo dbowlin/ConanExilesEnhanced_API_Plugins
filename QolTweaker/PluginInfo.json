@@ -1,0 +1,7 @@
+{
+  "Name": "QolTweaker",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Stack sizes, container slots, weight, spoil, and fuel via ItemTable RowMap + ItemInventory."
+}

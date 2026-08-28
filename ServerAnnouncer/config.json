@@ -1,0 +1,12 @@
+{
+  "Enabled": true,
+  "IntervalMinutes": 20,
+  "Prefix": "!",
+  "CommandBroadcast": "broadcast",
+  "Tips": [
+    "Welcome to the server — stay hydrated, exile.",
+    "Tip: Gear and feed thralls; pets get armor/health boosts when owned.",
+    "Tip: Use !loot near corpses if AreaLoot is enabled.",
+    "Rules reminder: no mesh abuse, no harassment — ask admins for help."
+  ]
+}

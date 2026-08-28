@@ -1,0 +1,8 @@
+{
+  "AutoDawnHour": 6,
+  "AutoDuskHour": 19,
+  "CommandLights": "lights",
+  "Enabled": true,
+  "InfiniteTorchFuel": true,
+  "Prefix": "!"
+}

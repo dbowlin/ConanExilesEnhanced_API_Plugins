@@ -1,0 +1,10 @@
+{
+  "ContainerSlotBonus": 200,
+  "Enabled": true,
+  "ExpandContainers": true,
+  "FuelBurnMultiplier": 10,
+  "MaxStackCap": 10000,
+  "SpoilTimeMultiplier": 5,
+  "StackMultiplier": 100,
+  "WeightMultiplier": 0.5
+}

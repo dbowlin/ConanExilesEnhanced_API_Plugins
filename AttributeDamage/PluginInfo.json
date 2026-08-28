@@ -1,0 +1,7 @@
+{
+  "Name": "AttributeDamage",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Equalizes Strength and Agility weapon damage scaling so fighters, archers, and dancers stay competitive."
+}

@@ -1,0 +1,10 @@
+{
+  "CommandBuy": "buy",
+  "CommandMarket": "market",
+  "CurrencyName": "Gold Coin(s)",
+  "CurrencyTemplateId": 11054,
+  "Enabled": false,
+  "ItemsPerPage": 6,
+  "Prefix": "!",
+  "UseOnScreenBox": true
+}

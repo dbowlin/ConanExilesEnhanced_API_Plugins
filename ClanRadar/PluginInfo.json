@@ -1,0 +1,7 @@
+{
+  "Name": "ClanRadar",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Reports player map grid via K2_GetActorLocation (!where / !ping)."
+}

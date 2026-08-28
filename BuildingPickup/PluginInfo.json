@@ -1,0 +1,7 @@
+{
+  "Name": "BuildingPickup",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Pick up nearby buildables via ServerReturnPlaceableToInventory / Player Interactable ReturnToInventory."
+}

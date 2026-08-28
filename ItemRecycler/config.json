@@ -1,0 +1,6 @@
+{
+  "CommandSalvage": "salvage",
+  "Enabled": true,
+  "Prefix": "!",
+  "SalvageEfficiencyPercent": 75
+}

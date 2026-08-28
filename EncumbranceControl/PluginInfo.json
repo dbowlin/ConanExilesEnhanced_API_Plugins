@@ -1,0 +1,7 @@
+﻿{
+  "Name": "EncumbranceControl",
+  "Version": "2.3.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Carry capacity via EncumbranceBase. ON = multiplier; OFF = unlimited carry."
+}

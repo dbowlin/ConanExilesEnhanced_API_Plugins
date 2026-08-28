@@ -1,0 +1,7 @@
+{
+  "Name": "AntiMeshPatrol",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Detects players below MinSafeZ and rescues them with K2_TeleportTo."
+}

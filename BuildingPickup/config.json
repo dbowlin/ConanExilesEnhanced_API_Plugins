@@ -1,0 +1,7 @@
+{
+  "AllowPickupFullContainers": true,
+  "CommandPickup": "pickup",
+  "Enabled": true,
+  "PickupRadiusMeters": 10,
+  "Prefix": "!"
+}

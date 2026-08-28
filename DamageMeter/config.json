@@ -1,0 +1,6 @@
+{
+  "Enabled": true,
+  "TrackFollowerDamage": true,
+  "Prefix": "!",
+  "CommandDps": "dps"
+}

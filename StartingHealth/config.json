@@ -1,0 +1,5 @@
+{
+  "ApplyOnRespawn": true,
+  "BaseStartingHealth": 250,
+  "HealthMultiplier": 4
+}

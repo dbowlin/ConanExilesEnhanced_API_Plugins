@@ -1,0 +1,7 @@
+﻿{
+  "Name": "StartingHealth",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Starting HP via MakeMeAdmin + SetStat AttributeHealth."
+}

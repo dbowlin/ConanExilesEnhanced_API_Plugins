@@ -1,0 +1,6 @@
+{
+  "CommandLoot": "loot",
+  "Enabled": true,
+  "LootRadiusMeters": 50,
+  "Prefix": "!"
+}

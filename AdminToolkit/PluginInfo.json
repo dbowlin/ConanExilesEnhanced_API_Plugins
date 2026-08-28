@@ -1,0 +1,7 @@
+{
+  "Name": "AdminToolkit",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Chat admin tools: !god !ghost !who !saveworld !kick via MakeMeAdmin + CheatManager/persistence."
+}

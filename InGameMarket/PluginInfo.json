@@ -1,0 +1,7 @@
+{
+  "Description": "Chat market: lists items.json, checks GetResourceCount, delivers via SpawnTemplateItem.",
+  "Enabled": false,
+  "MinApiVersion": "6",
+  "Name": "InGameMarket",
+  "Version": "2.0.0"
+}

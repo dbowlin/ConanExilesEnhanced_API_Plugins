@@ -1,0 +1,7 @@
+{
+  "Enabled": true,
+  "ShowMapGrid": true,
+  "Prefix": "!",
+  "CommandWhere": "where",
+  "CommandPing": "ping"
+}

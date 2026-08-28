@@ -1,0 +1,7 @@
+{
+  "Name": "CorpseRecovery",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Teleports nearby LootContainer bags to the player and tries AbsorbLootBagsOfClass."
+}

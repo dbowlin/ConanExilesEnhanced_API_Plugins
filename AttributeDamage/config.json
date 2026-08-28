@@ -1,0 +1,7 @@
+{
+  "AgilityDamagePercentPerPoint": 5,
+  "AgilityWeaponDamageMultiplier": 2,
+  "IncludePerformerWeapons": true,
+  "OffStatDamagePercentPerPoint": 0.5,
+  "StrengthDamagePercentPerPoint": 5
+}

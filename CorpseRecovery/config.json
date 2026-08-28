@@ -1,0 +1,7 @@
+{
+  "Enabled": true,
+  "CooldownSeconds": 30,
+  "CostGoldCoins": 0,
+  "Prefix": "!",
+  "CommandRecover": "recover"
+}

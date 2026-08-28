@@ -1,0 +1,7 @@
+{
+  "Name": "DungeonReset",
+  "Version": "2.1.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Pulses ResetDungeon/ResetBoss/ResetAfterEmptyDelay on nearby DungeonController instances."
+}

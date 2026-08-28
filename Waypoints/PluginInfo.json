@@ -1,0 +1,7 @@
+{
+  "Name": "Waypoints",
+  "Version": "2.0.0",
+  "MinApiVersion": "6",
+  "Enabled": true,
+  "Description": "Personal waypoints with K2_TeleportTo home travel."
+}

@@ -1,0 +1,7 @@
+{
+  "Enabled": true,
+  "MinSafeZCoordinate": -40000.0,
+  "RescueZCoordinate": 1000.0,
+  "AutoRescueIntervalSeconds": 3,
+  "PlayersOnly": true
+}

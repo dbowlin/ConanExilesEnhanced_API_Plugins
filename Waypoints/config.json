@@ -1,0 +1,16 @@
+{
+  "AllowFriendTeleport": true,
+  "CombatLockoutSeconds": 10,
+  "CommandDelHome": "delhome",
+  "CommandHome": "home",
+  "CommandHomes": "homes",
+  "CommandSetHome": "sethome",
+  "CommandTpa": "tpa",
+  "CommandTpr": "tpr",
+  "Enabled": true,
+  "FriendRequestTimeoutSeconds": 60,
+  "HomeCooldownSeconds": 30,
+  "MaxHomes": 5,
+  "Prefix": "!",
+  "TeleportDelaySeconds": 3
+}
